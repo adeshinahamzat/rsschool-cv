@@ -1,6 +1,6 @@
 # **Adeshina Hamzat**
-**Phone:**  +37062662973
-**Email:**  adeshina.hamzat19@gmail.com
+#### **Phone:**  +37062662973
+#### **Email:**  adeshina.hamzat19@gmail.com
 
 **_I am an Information Technology Analyst at HCL Technologies, coding is my passion and i would like to become a full-stack web developer._**
 
